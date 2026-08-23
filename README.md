@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">Bengaluru, Karnataka, India</p>
-
 <br/>
-
 ## About
 
 I build scalable, intelligent systems across machine learning, NLP, and automation — from RAG pipelines and LLM-driven chatbots to workflow automation and cloud-integrated applications. Currently a Software Engineer – Machine Learning at **EmageSoft**, with prior experience across LLM automation, cloud infrastructure research, and applied ML.
