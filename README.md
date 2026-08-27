@@ -110,7 +110,7 @@ Modular Python platform comparing cloud service pricing across AWS, Azure, GCP, 
 <td width="180" valign="top"><strong>Dec 2025 — Present</strong></td>
 <td valign="top">
 
-**Software Engineer – Machine Learning** · EmageSoft
+**Software Engineer – Machine Learning** · EmageSoft Private Limited
 Full-time · On-site, Bengaluru
 
 </td>
@@ -120,7 +120,7 @@ Full-time · On-site, Bengaluru
 <td valign="top">
 
 **Software Engineer Intern** · Codes Minds Software Consultancy
-LLMs, automation chatbots, Zapier pipelines
+Hybrid, Bengaluru
 
 </td>
 </tr>
@@ -129,7 +129,7 @@ LLMs, automation chatbots, Zapier pipelines
 <td valign="top">
 
 **Research Intern** · Connectivity IT Solutions
-Cloud pricing aggregator — AWS, Azure, GCP, Oracle
+Hybrid, Bengaluru
 
 </td>
 </tr>
@@ -138,7 +138,7 @@ Cloud pricing aggregator — AWS, Azure, GCP, Oracle
 <td valign="top">
 
 **AI & Machine Learning Intern** · Rooman Technologies Pvt Ltd
-NLP, image classification, clustering
+Remote, Bengaluru
 
 </td>
 </tr>
@@ -158,3 +158,5 @@ Bachelor of Engineering, Information Science and Engineering — MVJ College of 
   &nbsp;&nbsp;
   <a href="https://github.com/LikithGS11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+
+
