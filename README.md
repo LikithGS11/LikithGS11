@@ -144,7 +144,7 @@ NLP, image classification, clustering
 </tr>
 </table>
 
-**Education**
+-**Education**
 Bachelor of Engineering, Information Science and Engineering — MVJ College of Engineering, Bangalore (2021–2025)
 
 <br/>
