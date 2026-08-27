@@ -149,15 +149,6 @@ Bachelor of Engineering, Information Science and Engineering — MVJ College of 
 
 <br/>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=LikithGS11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=LikithGS11&layout=compact&theme=tokyonight&hide_border=true&hide=C%2B%2B,C,TypeScript" alt="Top languages" height="165"/>
-</p>
-
-<br/>
-
 ## Contact
 
 <p align="center">
