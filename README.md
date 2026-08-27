@@ -1,12 +1,6 @@
 <h1 align="center">Likith G S</h1>
 <p align="center"><strong>AI Engineer — LLMs, RAG pipelines & automation systems</strong></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/likithgs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:likithmanju11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/LikithGS11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
 <p align="center">Bengaluru, Karnataka, India</p>
 
 <br/>
@@ -37,7 +31,6 @@ Graduate in Information Science and Engineering from MVJ College of Engineering,
 **RAG HR Chatbot**
 Streamlit-based HR assistant using a Retrieval-Augmented Generation pipeline — FAISS vector search, BM25 re-ranking, and a Groq LLM for grounded, policy-accurate answers. PDF ingestion, chunking, and embedding generation for context-aware retrieval. Containerized with Docker.
 `Python` `LangChain` `FAISS` `Streamlit` `Docker`
-[NEEDS MY INPUT: repo link]
 
 </td>
 <td width="50%" valign="top">
@@ -45,7 +38,6 @@ Streamlit-based HR assistant using a Retrieval-Augmented Generation pipeline —
 **Lead Management Automation System**
 End-to-end automated lead pipeline (Google Forms → Sheets → Gmail → Calendar) built on Zapier, with a custom lead-scoring model, conditional email logic, timezone-aware follow-ups, and automatic sales-rep assignment.
 `Zapier` `Automation` `Lead Scoring`
-[NEEDS MY INPUT: repo link]
 
 </td>
 </tr>
@@ -55,7 +47,6 @@ End-to-end automated lead pipeline (Google Forms → Sheets → Gmail → Calend
 **AI-Based Assistive Technology for the Visually Impaired**
 Streamlit app combining Tesseract OCR + Google TTS for text recognition and speech output, with real-time YOLO/OpenCV object detection for environmental awareness and navigation assistance.
 `Python` `OpenCV` `YOLO` `Tesseract OCR` `Google TTS`
-[NEEDS MY INPUT: repo link]
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +54,6 @@ Streamlit app combining Tesseract OCR + Google TTS for text recognition and spee
 **Cloud Pricing Aggregator Platform**
 Modular Python platform comparing cloud service pricing across AWS, Azure, GCP, and Oracle, combining local datasets with live API-driven updates and interactive Streamlit dashboards.
 `Python` `REST APIs` `Streamlit`
-[NEEDS MY INPUT: repo link]
 
 </td>
 </tr>
@@ -84,30 +74,30 @@ Modular Python platform comparing cloud service pricing across AWS, Azure, GCP, 
 <tr>
 <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn"/><br>Scikit-Learn</td>
 <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/><br>OpenCV</td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/><br>LangChain</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/yolo" width="40" height="40" alt="YOLO"/><br>YOLO</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/ultralytics" width="40" height="40" alt="Ultralytics"/><br>Ultralytics</td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Hugging Face"/><br>Hugging Face</td>
+</tr>
+<tr>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Transformers"/><br>Transformers</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/><br>LangChain</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/ollama" width="40" height="40" alt="Ollama"/><br>Ollama</td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/flask" width="40" height="40" alt="Flask"/><br>Flask</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/fastapi" width="40" height="40" alt="FastAPI"/><br>FastAPI</td>
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/streamlit" width="40" height="40" alt="Streamlit"/><br>Streamlit</td>
 <td align="center" width="100"><img src="https://cdn.simpleicons.org/openapiinitiative" width="40" height="40" alt="REST APIs"/><br>REST APIs</td>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" alt="AWS"/><br>AWS</td>
 <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP"/><br>GCP</td>
-<td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub"/><br>GitHub</td>
-</tr>
-<tr>
 <td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker"/><br>Docker</td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/zapier" width="40" height="40" alt="Zapier"/><br>Zapier</td>
-<td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git</td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/yolo" width="40" height="40" alt="YOLO"/><br>YOLO</td>
-<td align="center" width="100"><img src="https://cdn.simpleicons.org/ollama" width="40" height="40" alt="Ollama"/><br>Ollama</td>
 </tr>
 <tr>
+<td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git</td>
+<td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub"/><br>GitHub</td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/zapier" width="40" height="40" alt="Zapier"/><br>Zapier</td>
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br>Linux</td>
-<td align="center" width="100"></td>
-<td align="center" width="100"></td>
-<td align="center" width="100"></td>
-<td align="center" width="100"></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/ffmpeg" width="40" height="40" alt="FFmpeg"/><br>FFmpeg</td>
 </tr>
 </table>
 
@@ -163,7 +153,7 @@ Bachelor of Engineering, Information Science and Engineering — MVJ College of 
 
 <p align="center">
   <img src="https://gh-readme-stats.vercel.app/api?username=LikithGS11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=LikithGS11&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=LikithGS11&layout=compact&theme=tokyonight&hide_border=true&hide=C%2B%2B,C,TypeScript" alt="Top languages" height="165"/>
 </p>
 
 <br/>
@@ -171,5 +161,9 @@ Bachelor of Engineering, Information Science and Engineering — MVJ College of 
 ## Contact
 
 <p align="center">
-📧 <a href="mailto:likithmanju11@gmail.com">likithmanju11@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/likithgs" target="_blank">LinkedIn</a> · 💻 <a href="https://github.com/LikithGS11" target="_blank">GitHub</a>
+  <a href="https://www.linkedin.com/in/likithgs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:likithmanju11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LikithGS11" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
